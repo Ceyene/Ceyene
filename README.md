@@ -10,7 +10,7 @@
 
 <h2 align="center">Welcome to my GitHub! My name is Cynthia Romero </h2>
 <p align="center">I'm a Front End Web Developer from Córdoba, Argentina.
-I´m always interested in learning new ways of creating sites, I keep studying about it. Front End is my focus, so Javascript is my main language. React library is my tool right now, but I'm open to learn any other JS libraries.
+React library is my tool right now, but I'm open to learn any other JS libraries in the future. Right now, I am interested in learning and getting more used to all the process of developing, especially in a group.
 When I'm not developing, you can find me watching series on Netflix, reading some fantasy or crime novels or writing my own stories for my literature blog.</p>
 
 <hr>
