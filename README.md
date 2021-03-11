@@ -3,9 +3,9 @@
 <p align="center">
 <a href="https://ceyene.github.io"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/www.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ce-y-ene/"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/Ceyene"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/github.png"></a>&nbsp;&nbsp;
-<a href="https://codepen.io/ceyene"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/codepen.png"></a>&nbsp;&nbsp;
-<a href="https://codesandbox.io/u/Ceyene"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/codesandbox.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/Ceyene"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/github-white.png"></a>&nbsp;&nbsp;
+<a href="https://codepen.io/ceyene"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/codepen-white.png"></a>&nbsp;&nbsp;
+<a href="https://codesandbox.io/u/Ceyene"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/codesandbox-white.png"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Welcome to my GitHub! My name is Cynthia Romero </h2>
