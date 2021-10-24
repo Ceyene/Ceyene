@@ -15,5 +15,4 @@ When I'm not coding, you can find me watching series on Netflix, reading some fa
 
 <hr>
 
-<h5 align="center"><a href="https://linktr.ee/ceyene">Other places you can find me, if you like reading or writing fiction 🔗🔗</a></h5>
 
