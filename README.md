@@ -1,4 +1,3 @@
-## [![cynthia romero's header](https://github.com/Ceyene/Ceyene/blob/main/Cynthia%20Romero%20Dark.png)](https://ceyene.github.io)
 
 <p align="center">
 <a href="https://ceyene.github.io"><img height="30" src="https://github.com/Ceyene/Ceyene/blob/main/www.png"></a>&nbsp;&nbsp;
