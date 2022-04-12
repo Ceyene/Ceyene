@@ -8,8 +8,8 @@
 </p>
 
 <h2 align="center">Welcome to my GitHub! My name is Cynthia Romero </h2>
-<p align="center">I'm a Node JS Developer from Córdoba, Argentina. </p>
-<p align="center">I started as a Front End Developer and had some experience working with Salesforce Commerce Cloud. Now I'm learning and working to be a great Node JS Developer. When I'm not coding, you can find me watching series on Netflix, reading some fantasy or crime novels or writing my own stories for my literature blog.</p>
+<p align="center">I'm a Web Developer from Córdoba, Argentina. </p>
+<p align="center">I started as a Front End Developer and had some experience working with Salesforce Commerce Cloud. When I'm not coding, you can find me watching series on Netflix, reading some fantasy or crime novels or writing my own stories for my literature blog.</p>
 
 <hr>
 
